@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="sol_badguy">Sol Badguy</string>
+
+    <string name="ky_kiske">Ky Kiske</string>
+
+    <string name="johnny">Johnny</string>
+
+    <string name="imageViewBG">Static color background</string>
+
+    <string name="imageView">Image that changes upon button press</string>
+
+</resources>
